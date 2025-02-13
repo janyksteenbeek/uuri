@@ -4,6 +4,8 @@
 
 Uuri is a Laravel-based project management and time tracking system that helps you manage time entries per project efficiently.
 
+> **Note:** ⚠️ Uuri is currently in ACTIVE development and not yet ready for production use. Feel free to contribute to the project by submitting pull requests.
+
 ## Features
 
 - Client Management
