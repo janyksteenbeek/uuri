@@ -35,9 +35,10 @@ cp .env.example .env
 php artisan key:generate
 ```
 
-4. Configure your database in `.env` and run migrations:
+4. Setup your database (use SQLite or change in `.env`) and run migrations:
 
 ```bash
+touch database/database.sqlite
 php artisan migrate
 ```
 
